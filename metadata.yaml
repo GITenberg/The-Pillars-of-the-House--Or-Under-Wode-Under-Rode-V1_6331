@@ -1,0 +1,31 @@
+_repo: The-Pillars-of-the-House--Or-Under-Wode-Under-Rode-V1_6331
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- GITenberg
+title: The Pillars of the House; Or, Under Wode, Under Rode, V1
+url: http://www.gutenberg.org/ebooks/6331
